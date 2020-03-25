@@ -1,0 +1,28 @@
+body{
+    background-image: url(../imagenes/Oceano.jpg);
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-size: 1280px;
+}
+.center{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 80px;
+}
+header img{
+    border: 5px solid white;
+    border-radius: 180px;
+    text-align: center;
+    align-items: center;
+}
+h1{
+    text-align: center;
+    font-family: 'Liu Jian Mao Cao', cursive;
+    color: #000000
+}
+h2{
+    text-align: center;
+    font-family: 'Liu Jian Mao Cao', cursive;
+    color: #000000
+}
